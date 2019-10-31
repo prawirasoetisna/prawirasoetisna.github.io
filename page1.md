@@ -1,8 +1,11 @@
 ---
 layout: page
 title: page1
+mathjax: true
 permalink: /page1/
 ---
+
+{% include mathjax.html %}
 
 ### This is page 1
 
